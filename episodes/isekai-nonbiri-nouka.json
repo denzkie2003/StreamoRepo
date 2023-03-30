@@ -78,5 +78,21 @@
     "Server1":"https://sbface.com/e/v1zuy5r5tk38",
     "Server2":"",
     "Server3":""
+  },
+  {
+    "Title":"Everyday life and the Progenitor",
+    "Episode":"Episode 11",
+    "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd5A1aI1aR18v-VfAJgNaXhSRRvMtLxewd0g&usqp=CAU",
+    "Server1":"https://sbface.com/e/v6dfjwjau0c1",
+    "Server2":"",
+    "Server3":""
+  },
+  {
+    "Title":"Birth",
+    "Episode":"Episode 12",
+    "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd5A1aI1aR18v-VfAJgNaXhSRRvMtLxewd0g&usqp=CAU",
+    "Server1":"https://sbface.com/e/0iwv8m3za5tm",
+    "Server2":"",
+    "Server3":""
   }
 ]
