@@ -3,16 +3,40 @@
     "Title":"The Almighty Farming Tool",
     "Episode":"Episode 1",
     "Thumbnail":"https://thumbs.filemoon.wf/lfr3m5jg7xfb_t.jpg",
-    "Server1":"https://filemoon.wf/e/lfr3m5jg7xfb/Episode_1",
-    "Server2":"https://streamtape.com/e/VzmgMml2eliK83O",
-    "Server3":""
+    "Server1":"https://sbface.com/e/uydqhvnhmuni",
+    "Server2":"https://filemoon.wf/e/lfr3m5jg7xfb/Episode_1",
+    "Server3":"https://streamtape.com/e/VzmgMml2eliK83O"
   },
   {
     "Title":"The First Villager",
     "Episode":"Episode 2",
     "Thumbnail":"https://thumb.tapecontent.net/thumb/LXyG94mJOJSRkqk/lA08eGmBVDI7G4y.jpg",
-    "Server1":"https://filemoon.wf/e/dlhxvv8tbibk/Isekai_Nonbiri_Nouka",
-    "Server2":"https://streamtape.com/e/LXyG94mJOJSRkqk",
-    "Server3":""
+    "Server2":"https://filemoon.wf/e/dlhxvv8tbibk/Isekai_Nonbiri_Nouka",
+    "Server3":"https://streamtape.com/e/LXyG94mJOJSRkqk",
+    "Server1":"https://sbface.com/e/qfom06cxso5a"
+  },
+  {
+    "Title":"More and More New Roommates",
+    "Episode":"Episode 3",
+    "Thumbnail":"https://thumb.tapecontent.net/thumb/WowwjD1ZpgSpPp/ywpeB4MrQGh1X63.jpg",
+    "Server1":"https://sbface.com/e/sbt5u8drpa22",
+    "Server2":"https://filemoon.wf/e/7qt0llonb0v0/Episode_3",
+    "Server3":"https://streamtape.com/e/WowwjD1ZpgSpPp"
+  },
+  {
+    "Title":"Waterways Make Life Feel Complete",
+    "Episode":"Episode 4",
+    "Thumbnail":"https://thumb.tapecontent.net/thumb/28qR3o26qzfZ4BP/J0R4KBWyg6ujqMl.jpg",
+    "Server1":"",
+    "Server2":"https://filemoon.wf/e/3lrja5y6qyxy/Episode_4",
+    "Server3":"https://streamtape.com/e/28qR3o26qzfZ4BP"
+  },
+  {
+    "Title":"Curry, and Surviving the Winter",
+    "Episode":"Episode 5",
+    "Thumbnail":"https://thumb.tapecontent.net/thumb/e0BJaRzmY1tYzBo/1R2BmwprJjH0ax.jpg",
+    "Server1":"",
+    "Server2":"",
+    "Server3":"https://streamtape.com/e/e0BJaRzmY1tYzBo"
   }
 ]
