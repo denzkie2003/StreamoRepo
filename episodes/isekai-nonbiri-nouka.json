@@ -27,7 +27,7 @@
     "Title":"Waterways Make Life Feel Complete",
     "Episode":"Episode 4",
     "Thumbnail":"https://thumb.tapecontent.net/thumb/28qR3o26qzfZ4BP/J0R4KBWyg6ujqMl.jpg",
-    "Server1":"",
+    "Server1":"https://sbface.com/e/1hehe4n8dm6y",
     "Server2":"https://filemoon.wf/e/3lrja5y6qyxy/Episode_4",
     "Server3":"https://streamtape.com/e/28qR3o26qzfZ4BP"
   },
@@ -35,8 +35,48 @@
     "Title":"Curry, and Surviving the Winter",
     "Episode":"Episode 5",
     "Thumbnail":"https://thumb.tapecontent.net/thumb/e0BJaRzmY1tYzBo/1R2BmwprJjH0ax.jpg",
-    "Server1":"",
+    "Server1":"https://sbface.com/e/nvstcdap58lz",
     "Server2":"",
     "Server3":"https://streamtape.com/e/e0BJaRzmY1tYzBo"
+  },
+  {
+    "Title":"This is a Village",
+    "Episode":"Episode 6",
+    "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd5A1aI1aR18v-VfAJgNaXhSRRvMtLxewd0g&usqp=CAU",
+    "Server1":"https://sbface.com/e/nvstcdap58lz",
+    "Server2":"",
+    "Server3":""
+  },
+  {
+    "Title":"A Hospitable Heart",
+    "Episode":"Episode 7",
+    "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd5A1aI1aR18v-VfAJgNaXhSRRvMtLxewd0g&usqp=CAU",
+    "Server1":"https://sbface.com/e/pxd57ujljww6",
+    "Server2":"",
+    "Server3":""
+  },
+  {
+    "Title":"The Researcher and the Two Princesses",
+    "Episode":"Episode 8",
+    "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd5A1aI1aR18v-VfAJgNaXhSRRvMtLxewd0g&usqp=CAU",
+    "Server1":"https://sbface.com/e/ironkc2jef9v",
+    "Server2":"",
+    "Server3":""
+  },
+  {
+    "Title":"The Merchant and the Dragon",
+    "Episode":"Episode 9",
+    "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd5A1aI1aR18v-VfAJgNaXhSRRvMtLxewd0g&usqp=CAU",
+    "Server1":"https://sbface.com/e/aq4kz56qat5g",
+    "Server2":"",
+    "Server3":""
+  },
+  {
+    "Title":"Princess Yuri",
+    "Episode":"Episode 10",
+    "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd5A1aI1aR18v-VfAJgNaXhSRRvMtLxewd0g&usqp=CAU",
+    "Server1":"https://sbface.com/e/v1zuy5r5tk38",
+    "Server2":"",
+    "Server3":""
   }
 ]
