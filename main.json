@@ -1,5 +1,23 @@
 [
   {
+    "Title":"The Eminence in Shadow",
+    "Alternative":"Kage no Jitsuryokusha ni Naritakute!",
+    "Cover":"https://m.media-amazon.com/images/M/MV5BMGU1NzE1Y2UtZmZkOC00ODQ4LTkwNDAtNmE4Yzk3NTA4MThlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+    "Type":"TV",
+    "Episodes":"20",
+    "Status":"Completed",
+    "Aired":"Oct 5, 2022 to Feb 15, 2023",
+    "Season":"Fall 2022",
+    "Studio":"Nexus",
+    "Source":"Light Novel",
+    "Genre":"Action, Comedy, Fantasy",
+    "Theme":"Isekai",
+    "Duration":"23 min per ep",
+    "Ratings":"8.36",
+    "Synopsis":"Cid Kagenou creates an elaborate plot to fight the Cult of Diabolos and builds his organization, the Shadow Garden.",
+    "Link":"episodes/kage-no-Jitsuryokusha.json"
+  },
+  {
     "Title":"Farming Life in Another World",
     "Alternative":"Isekai Nonbiri Nouka",
     "Cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSBHJGUUE2qjduMlc6RdSITQ-taiqgXNazQ&usqp=CAU",
