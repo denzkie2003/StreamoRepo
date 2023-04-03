@@ -1,5 +1,23 @@
 [
   {
+    "Title":"Selection Project",
+    "Alternative":"Selection Project",
+    "Cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvs6i9CYxFtO_yJ7tet-G5dg7OJPfFkSfp3A&usqp=CAU",
+    "Type":"TV",
+    "Episodes":"13",
+    "Status":"Completed",
+    "Aired":"Oct 1, 2021 to Dec 24, 2021",
+    "Season":"Fall 2021",
+    "Studio":"Doga Kobo",
+    "Source":"Manga",
+    "Genre":"Drama, Music",
+    "Theme":"Idol, Music",
+    "Duration":"23 min",
+    "Ratings":"7.25",
+    "Synopsis":"Held every summer, the national show “Selection Project” is the biggest gateway for girls who strive to be idols, and the place where the legendary idol Akari Amazawa was born.",
+    "Link":"episodes/selection-project.json"
+  },
+  {
     "Title":"The Eminence in Shadow",
     "Alternative":"Kage no Jitsuryokusha ni Naritakute!",
     "Cover":"https://m.media-amazon.com/images/M/MV5BMGU1NzE1Y2UtZmZkOC00ODQ4LTkwNDAtNmE4Yzk3NTA4MThlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_QL75_UY562_CR8,0,380,562_.jpg",
@@ -12,7 +30,7 @@
     "Source":"Light Novel",
     "Genre":"Action, Comedy, Fantasy",
     "Theme":"Isekai",
-    "Duration":"23 min per ep",
+    "Duration":"23 min",
     "Ratings":"8.36",
     "Synopsis":"Cid Kagenou creates an elaborate plot to fight the Cult of Diabolos and builds his organization, the Shadow Garden.",
     "Link":"episodes/kage-no-Jitsuryokusha.json"
@@ -30,7 +48,7 @@
     "Source":"Light Novel",
     "Genre":"Fantasy, Slice of Life",
     "Theme":"Isekai",
-    "Duration":"23min per ep",
+    "Duration":"23 min",
     "Ratings":"7.63",
     "Synopsis":"During the final years of his life, Hiraku Machio remained confined to a hospital bed with a terminal illness until he finally passed away. Taking pity on the unfair life he lived, a god decides to reincarnate Hiraku in another world where he can live as he pleases. Wanting to try farming in this new life, he is bestowed with an all-in-one “Almighty Farming Tool” that can transform into any useful implement he wishes. Hiraku is then transported to a forest seemingly far from civilization. Here, he plans to build and farm everything from scratch—gradually developing the lifeless area into a thriving new society.",
     "Link":"episodes/isekai-nonbiri-nouka.json"
