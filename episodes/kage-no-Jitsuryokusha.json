@@ -3,47 +3,55 @@
     "Title":"The Head Classmate",
     "Episode":"Episode 1",
     "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8McNdoPEhbh7DBylOeOUkBh_xANaHKIP1bA&usqp=CAU",
-    "StreamSB":"https://sbface.com/e/yzzbotcq1wf1",
-    "Streamtape":"",
-    "Filemoon":""
+    "Server1":"https://sbface.com/e/yzzbotcq1wf1",
+    "Server3":"",
+    "Server2":""
   },
   {
     "Title":"Shadow Garden is Born",
     "Episode":"Episode 2",
     "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8McNdoPEhbh7DBylOeOUkBh_xANaHKIP1bA&usqp=CAU",
-    "StreamSB":"https://sbface.com/e/8rlsbin770b2",
-    "Streamtape":"",
-    "Filemoon":""
+    "Server1":"https://sbface.com/e/8rlsbin770b2",
+    "Server3":"",
+    "Server2":""
   },
   {
     "Title":"Fencer Ordinaire",
     "Episode":"Episode 3",
     "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8McNdoPEhbh7DBylOeOUkBh_xANaHKIP1bA&usqp=CAU",
-    "StreamSB":"https://sbface.com/e/yijv958o0ir0",
-    "Streamtape":"",
-    "Filemoon":""
+    "Server1":"https://sbface.com/e/yijv958o0ir0",
+    "Server3":"",
+    "Server2":""
   },
   {
     "Title":"Sadism's Rewards",
     "Episode":"Episode 4",
     "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8McNdoPEhbh7DBylOeOUkBh_xANaHKIP1bA&usqp=CAU",
-    "StreamSB":"https://sbface.com/e/q01icglqqbv4",
-    "Streamtape":"",
-    "Filemoon":""
+    "Server1":"https://sbface.com/e/q01icglqqbv4",
+    "Server3":"",
+    "Server2":""
   },
   {
     "Title":"I Am...",
     "Episode":"Episode 5",
     "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8McNdoPEhbh7DBylOeOUkBh_xANaHKIP1bA&usqp=CAU",
-    "StreamSB":"https://sbface.com/e/2efzk11wkxkh",
-    "Streamtape":"",
-    "Filemoon":""
+    "Server1":"https://sbface.com/e/2efzk11wkxkh",
+    "Server3":"",
+    "Server2":""
   },
   {
     "Title":"Pretenders",
     "Episode":"Episode 6",
     "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8McNdoPEhbh7DBylOeOUkBh_xANaHKIP1bA&usqp=CAU",
-    "StreamSB":"https://sbface.com/e/hxflyz3ntc4l",
+    "Server1":"https://sbface.com/e/hxflyz3ntc4l",
+    "Server3":"",
+    "Server2":""
+  },
+  {
+    "Title":"",
+    "Episode":"Episode 3",
+    "Thumbnail":"",
+    "StreamSB":"",
     "Streamtape":"",
     "Filemoon":""
   }
