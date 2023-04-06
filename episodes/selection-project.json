@@ -3,7 +3,7 @@
     "Title":"Only one yell",
     "Episode":"Episode 1",
     "Thumbnail":"https://cache.anicdn.stream/images/4ba61e475191e2f1c8759fd07e9f5e49/1_cover.jpg",
-    "StreamSB":"https://sbface.com/e/6lvmft5kqydk",
+    "Server1":"https://sbface.com/e/6lvmft5kqydk",
     "Server3":"",
     "Server2":""
   },
@@ -11,7 +11,7 @@
     "Title":"The Girls on a Journey to Tomorrow",
     "Episode":"Episode 2",
     "Thumbnail":"https://cache.anicdn.stream/images/4ba61e475191e2f1c8759fd07e9f5e49/2_cover.jpg",
-    "StreamSB":"https://sbface.com/e/kz0g8xy8g2ex",
+    "Server1":"https://sbface.com/e/kz0g8xy8g2ex",
     "Server3":"",
     "Server2":""
   },
@@ -19,8 +19,16 @@
     "Title":"If Singing Vanished from The World",
     "Episode":"Episode 3",
     "Thumbnail":"https://cache.anicdn.stream/images/4ba61e475191e2f1c8759fd07e9f5e49/3_cover.jpg",
-    "StreamSB":"https://sbface.com/e/owhsa4vxxife",
+    "Server1":"https://sbface.com/e/owhsa4vxxife",
     "Server3":"",
     "Server2":""
+  },
+  {
+    "Title":"",
+    "Episode":"Episode 4",
+    "Thumbnail":"",
+    "Server1":"https://sbface.com/e/ntqsmlmy3s5t",
+    "Server2":"",
+    "Server3":""
   }
 ]
