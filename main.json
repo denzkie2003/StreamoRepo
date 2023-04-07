@@ -4,17 +4,17 @@
     "Alternative":"Selection Project",
     "Cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvs6i9CYxFtO_yJ7tet-G5dg7OJPfFkSfp3A&usqp=CAU",
     "Type":"TV",
-    "Episodes":"13",
+    "Episodes":"Ep 13",
     "Status":"Completed",
     "Aired":"Oct 1, 2021 to Dec 24, 2021",
     "Season":"Fall 2021",
     "Studio":"Doga Kobo",
-    "Source":"Manga",
+    "Source":"Funimation",
     "Genre":"Drama, Music",
     "Theme":"Idol, Music",
     "Duration":"23 min",
     "Ratings":"7.25",
-    "Synopsis":"Held every summer, the national show “Selection Project” is the biggest gateway for girls who strive to be idols, and the place where the legendary idol Akari Amazawa was born.",
+    "Synopsis":"Suzune Miyama has been sick since childhood, but always used idol Akari Amasawa’s music for courage and smiles through hard times. Now in her final year of junior high, Suzune is auditioning against thousands of contestants to become one of nine chosen idols in the “Selection Project”—the exact audition competition Akari used to gain fame. Will she follow in her icon’s footsteps?",
     "Link":"episodes/selection-project.json",
     "Popular":"No",
     "Recommended":"No"
@@ -77,7 +77,7 @@
     "Synopsis":"In Raja, a small country located to the west of Tempest. Rimuru and his companions get involved in a long-running conspiracy that swirls around the mysterious power of the queen. Rimuru and his commander Benimaru also encounter another ogre survivor named Hiiro, a man that used to be the brother of Benimaru.",
     "Link":"episodes/tensei-shittara-slime.json",
     "Popular":"Yes",
-    "Recommended":"No"
+    "Recommended":"Yes"
   },
   {
     "Title":"The Angel Next Door Spoils Me Rotten",
