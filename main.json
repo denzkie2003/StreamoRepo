@@ -1,4 +1,26 @@
 [
+	{
+    "Title":"Tonikaku Kawaii Season 2",
+    "Alternative":"Fly Me to the Moon 2nd Season",
+    "Cover":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141208-On0qHKxo6P5t.png",
+    "Type":"TV",
+    "Episodes":"Ep 1",
+    "Status":"Ongoing",
+    "Aired":"April 8, 2023 / ?",
+    "Season":"Spring 2023",
+    "Studio":"Seven Arcs",
+    "Source":"Manga",
+    "Genre":"Comedy, Romance",
+    "Theme":"Shounen",
+    "Duration":"23 min",
+    "Ratings":"8.17",
+    "Synopsis":"Second season of Tonikaku Kawaii",
+    "Link":"episodes/tonikaku-kawaii-2nd-season.json",
+    "Popular":"No",
+    "Recommended":"No",
+    "Updated":"Yes",
+    "Page":"1"
+  },
   {
     "Title":"Selection Project",
     "Alternative":"Selection Project",
@@ -17,14 +39,16 @@
     "Synopsis":"Suzune Miyama has been sick since childhood, but always used idol Akari Amasawa’s music for courage and smiles through hard times. Now in her final year of junior high, Suzune is auditioning against thousands of contestants to become one of nine chosen idols in the “Selection Project”—the exact audition competition Akari used to gain fame. Will she follow in her icon’s footsteps?",
     "Link":"episodes/selection-project.json",
     "Popular":"No",
-    "Recommended":"No"
+    "Recommended":"No",
+    "Updated":"Yes",
+    "Page":"2"
   },
   {
     "Title":"The Eminence in Shadow",
     "Alternative":"Kage no Jitsuryokusha ni Naritakute!",
     "Cover":"https://m.media-amazon.com/images/M/MV5BMGU1NzE1Y2UtZmZkOC00ODQ4LTkwNDAtNmE4Yzk3NTA4MThlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_QL75_UY562_CR8,0,380,562_.jpg",
     "Type":"TV",
-    "Episodes":"20",
+    "Episodes":"Ep 20",
     "Status":"Completed",
     "Aired":"Oct 5, 2022 to Feb 15, 2023",
     "Season":"Fall 2022",
@@ -37,7 +61,9 @@
     "Synopsis":"Cid Kagenou creates an elaborate plot to fight the Cult of Diabolos and builds his organization, the Shadow Garden.",
     "Link":"episodes/kage-no-Jitsuryokusha.json",
     "Popular":"Yes",
-    "Recommended":"Yes"
+    "Recommended":"Yes",
+    "Updated":"Yes",
+    "Page":"1"
   },
   {
     "Title":"Farming Life in Another World",
@@ -57,7 +83,9 @@
     "Synopsis":"During the final years of his life, Hiraku Machio remained confined to a hospital bed with a terminal illness until he finally passed away. Taking pity on the unfair life he lived, a god decides to reincarnate Hiraku in another world where he can live as he pleases. Wanting to try farming in this new life, he is bestowed with an all-in-one “Almighty Farming Tool” that can transform into any useful implement he wishes. Hiraku is then transported to a forest seemingly far from civilization. Here, he plans to build and farm everything from scratch—gradually developing the lifeless area into a thriving new society.",
     "Link":"episodes/isekai-nonbiri-nouka.json",
     "Popular":"No",
-    "Recommended":"No"
+    "Recommended":"No",
+    "Updated":"Yes",
+    "Page":"1"
   },
   {
     "Title":"That Time I Got Reincarnated as a Slime: The Movie - Scarlet Bond",
@@ -77,7 +105,9 @@
     "Synopsis":"In Raja, a small country located to the west of Tempest. Rimuru and his companions get involved in a long-running conspiracy that swirls around the mysterious power of the queen. Rimuru and his commander Benimaru also encounter another ogre survivor named Hiiro, a man that used to be the brother of Benimaru.",
     "Link":"episodes/tensei-shittara-slime.json",
     "Popular":"Yes",
-    "Recommended":"Yes"
+    "Recommended":"Yes",
+    "Updated":"Yes",
+    "Page":"1"
   },
   {
     "Title":"The Angel Next Door Spoils Me Rotten",
@@ -97,6 +127,8 @@
     "Synopsis":"Mahiru Shiina is worthy of her nickname “Angel”: she is a divine beauty loved by all, and she excels in both academics and athletics. Shiina lives in an entirely different world from Amane Fujimiya, her next-door neighbor. Despite living so close together, they have never spoken once. But their silence is broken when Fujimiya spots Shiina gloomily sitting on a swing amidst a heavy rainstorm and lends her his umbrella.\n\nWhen Fujimiya catches a cold the next day, Shiina wishes to return the favor for the umbrella by nursing him back to health. Believing that this would be their first and last interaction, he silently appreciates her kindness. However, Shiina—who can not help but worry about Fujimiya's lack of tidiness and proper nutrition—begins to cook and clean for him. As the unlikely pair spend time together in Fujimiya's apartment, they explore the true nature of their relationship and the gentle emotions that emerge from it.",
     "Link":"episodes/The Angel Next Door Spoils Me Rotten.json",
     "Popular":"Yes",
-    "Recommended":"Yes"
+    "Recommended":"Yes",
+    "Updated":"Yes",
+    "Page":"1"
   }
 ]
