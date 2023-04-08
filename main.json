@@ -1,5 +1,27 @@
 [
 	{
+    "Title":"Kono Subarashii Sekai ni Bakuen wo!",
+    "Alternative":"KonoSuba: An Explosion on This Wonderful World!",
+    "Cover":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150075-c7iph443GTBd.jpg",
+    "Type":"TV",
+    "Episodes":"Ep 1",
+    "Status":"Ongoing",
+    "Aired":"April 6, 2023 to ?",
+    "Season":"Spring 2023",
+    "Studio":"Drive",
+    "Source":"Light Novel",
+    "Genre":"Comedy, Fantasy",
+    "Theme":"Fantasy",
+    "Duration":"23 min",
+    "Ratings":"8.01",
+    "Synopsis":"Crimson Magic Clan members Megumin and Yunyun are at the top of their class, but they still have a lot to learn. Yunyun's begun learning advanced magic, but Megumin has gone down a different path-the path of explosion magic! Despite being warned of its limited usefulness, Megumin believes explosion magic is the way for her to become a great, voluptuous wizard, and she won't be convinced otherwise!",
+    "Link":"episodes/Kono Subarashii Sekai ni Bakuen wo.json",
+    "Popular":"No",
+    "Recommended":"No",
+    "Updated":"Yes",
+    "Page":"1"
+  },
+	{
     "Title":"Kawaisugi Crisis",
     "Alternative":"Too Cute Crisis",
     "Cover":"https://imgs.search.brave.com/o09GF0fvCZwbzynnnILAiQ9mr0K_4pjT8PCOb64ES0k/rs:fit:474:670:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMtZ2Vla25hdGl2/ZS1jb20uZXhhY3Rk/bi5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjMvMDQvMDUy/MzA4NDMvdG9vLWN1/dGUtY3Jpc2lzLTIu/anBnP3N0cmlwPWFs/bCZsb3NzeT0xJnNo/YXJwPTEmdz02Nzkm/c3NsPTE",
@@ -195,6 +217,6 @@
     "Popular":"Yes",
     "Recommended":"Yes",
     "Updated":"Yes",
-    "Page":"1"
+    "Page":"2"
   }
 ]
