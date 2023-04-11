@@ -1,11 +1,35 @@
 [
 {
+    "Title":"I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
+    "Alternative":"Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+    "Cover":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153845-C47aoKy7wf19.jpg",
+    "Type":"TV",
+    "CurrentEpisode":"Ep 2",
+    "Episodes":"13",
+    "Status":"Ongoing",
+    "Aired":"April 7, 2023 to ?",
+    "Season":"Spring 2023",
+    "Studio":"Millepensee",
+    "Source":"Light Novel",
+    "Genre":"Action, Adventure, Fantasy",
+    "Theme":"Isekai, School",
+    "Duration":"24 Minutes",
+    "Ratings":"7.46",
+    "Synopsis":"All his life, Yuuya has been bullied at school and neglected by his parents. After moving into his late grandfather’s home, he discovers a strange door that seems to be calling out to him. Yuuya opens the door, steps inside, and is suddenly transported to a magical world! This new world holds rare treasures and grants him powerful skills, which he takes back to Earth for a new lease on life.",
+    "Link":"episodes/isekai-de-chest-skill.json",
+    "Popular":"Yes",
+    "Recommended":"Yes",
+    "Updated":"Yes",
+    "Page":"1"
+  },
+{
     "Title":"Kimi No Na Wa.",
     "Alternative":"Your Name.",
     "Cover":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-XIr3PeczUjjF.png",
     "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9o9iHEE5GocR6ojOgeuzprCBx0B3AaMFtOg&usqp=CAU",
     "Type":"Movie",
-    "Episodes":"Ep 1",
+    "CurrentEpisode":"Ep 1",
+    "Episodes":"1",
     "Status":"Completed",
     "Aired":"Aug  26, 2016",
     "Season":"Summer 2016",
@@ -19,8 +43,8 @@
     "Link":"episodes/kimi no na wa.json",
     "Popular":"Yes",
     "Recommended":"Yes",
-    "Updated":"Yes",
-    "Page":"1"
+    "Updated":"No",
+    "Page":"2"
   },
 {
     "Title":"Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita",
@@ -28,7 +52,8 @@
     "Cover":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146234-vSYvPfLwjYXX.jpg",
     "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FxTfLURGWEvVOEKvNFaidn_pDWkMBeUmVQ&usqp=CAU",
     "Type":"TV",
-    "Episodes":"Ep 1",
+    "CurrentEpisode":"Ep 1",
+    "Episodes":"?",
     "Status":"Ongoing",
     "Aired":"April 7, 2023 to ?",
     "Season":"Spring 2023",
@@ -43,7 +68,7 @@
     "Popular":"No",
     "Recommended":"Yes",
     "Updated":"Yes",
-    "Page":"1"
+    "Page":"2"
   },
 	{
     "Title":"Kono Subarashii Sekai ni Bakuen wo!",
@@ -51,7 +76,8 @@
     "Cover":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150075-c7iph443GTBd.jpg",
     "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwuKRnOnyepX-C47fGxU8eVCX9mv5iwi8wLg&usqp=CAU",
     "Type":"TV",
-    "Episodes":"Ep 1",
+    "CurrentEpisode":"1",
+    "Episodes":"13",
     "Status":"Ongoing",
     "Aired":"April 6, 2023 to ?",
     "Season":"Spring 2023",
@@ -66,7 +92,7 @@
     "Popular":"No",
     "Recommended":"Yes",
     "Updated":"Yes",
-    "Page":"1"
+    "Page":"2"
   },
 	{
     "Title":"Kawaisugi Crisis",
@@ -74,7 +100,8 @@
     "Cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR37FJTdoUoLLXIBoN0R5GclgU6cQIZb6Wbg&usqp=CAU",
     "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3hitXBtHveHgoVqX_ROlQT20FxQgLdLG8w&usqp=CAU",
     "Type":"TV",
-    "Episodes":"Ep 1",
+    "CurrentEpisode":"1",
+    "Episodes":"12",
     "Status":"Ongoing",
     "Aired":"Apr 7, 2023 to ?",
     "Season":"Spring 2023",
@@ -89,7 +116,7 @@
     "Popular":"No",
     "Recommended":"Yes",
     "Updated":"Yes",
-    "Page":"1"
+    "Page":"2"
   },
 	{
     "Title":"Megami no Café Terrace",
@@ -97,7 +124,8 @@
     "Cover":"https://m.media-amazon.com/images/M/MV5BZjM3NDQ2MjgtOGIwMC00YTc5LWJmZGMtMjI4MmQ5M2U4MzRiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_QL75_UX380_CR0,4,380,562_.jpg",
     "Thumbnail":"https://imgs.search.brave.com/Wd93_o8cD1aUjuiwh7OKytQe6jyMAmeH3J6LpBso8q0/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9hbmlt/ZWNvcm5lci5tZS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/MS9NZWdhbWktbm8t/Q2FmZS1UZXJyYWNl/LXRlYXNlci1QVi5w/bmc",
     "Type":"TV",
-    "Episodes":"Ep 1",
+    "CurrentEpisode":"1",
+    "Episodes":"?",
     "Status":"Ongoing",
     "Aired":"Apr 8, 2023 to ?",
     "Season":"Spring 2023",
@@ -112,14 +140,15 @@
     "Popular":"No",
     "Recommended":"Yes",
     "Updated":"Yes",
-    "Page":"1"
+    "Page":"2"
   },
 	{
     "Title":"Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
     "Alternative":"Chronicles of an Aristocrat Reborn in Another World: The Apostle of the Gods Who Know No Self-Restraint",
     "Cover":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153332-k3Jg04E9jNRo.png",
     "Type":"TV",
-    "Episodes":"Ep 1",
+    "CurrentEpisode":"1",
+    "Episodes":"12",
     "Status":"Ongoing",
     "Aired":"April 3, 2023 / ?",
     "Season":"Spring 2023",
@@ -134,7 +163,7 @@
     "Popular":"No",
     "Recommended":"No",
     "Updated":"Yes",
-    "Page":"1"
+    "Page":"2"
   },
 	{
     "Title":"Tonikaku Kawaii Season 2",
@@ -142,7 +171,8 @@
     "Cover":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141208-On0qHKxo6P5t.png",
     "Thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsIDqW0bJaPl4O0Lj6GpJrGCVQiTXiSIgzKA&usqp=CAU",
     "Type":"TV",
-    "Episodes":"Ep 1",
+    "CurrentEpisode":"1",
+    "Episodes":"?",
     "Status":"Ongoing",
     "Aired":"April 8, 2023 / ?",
     "Season":"Spring 2023",
@@ -157,14 +187,15 @@
     "Popular":"No",
     "Recommended":"Yes",
     "Updated":"Yes",
-    "Page":"1"
+    "Page":"2"
   },
   {
     "Title":"Selection Project",
     "Alternative":"Selection Project",
     "Cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvs6i9CYxFtO_yJ7tet-G5dg7OJPfFkSfp3A&usqp=CAU",
     "Type":"TV",
-    "Episodes":"Ep 13",
+    "CurrentEpisode":"13",
+    "Episodes":"13",
     "Status":"Completed",
     "Aired":"Oct 1, 2021 to Dec 24, 2021",
     "Season":"Fall 2021",
@@ -178,7 +209,7 @@
     "Link":"episodes/selection-project.json",
     "Popular":"No",
     "Recommended":"No",
-    "Updated":"Yes",
+    "Updated":"No",
     "Page":"2"
   },
   {
@@ -186,7 +217,8 @@
     "Alternative":"Kage no Jitsuryokusha ni Naritakute!",
     "Cover":"https://m.media-amazon.com/images/M/MV5BMGU1NzE1Y2UtZmZkOC00ODQ4LTkwNDAtNmE4Yzk3NTA4MThlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_QL75_UY562_CR8,0,380,562_.jpg",
     "Type":"TV",
-    "Episodes":"Ep 20",
+    "CurrentEpisode":"20",
+    "Episodes":"20",
     "Status":"Completed",
     "Aired":"Oct 5, 2022 to Feb 15, 2023",
     "Season":"Fall 2022",
@@ -200,14 +232,15 @@
     "Link":"episodes/kage-no-Jitsuryokusha.json",
     "Popular":"Yes",
     "Recommended":"No",
-    "Updated":"Yes",
-    "Page":"1"
+    "Updated":"No",
+    "Page":"2"
   },
   {
     "Title":"Farming Life in Another World",
     "Alternative":"Isekai Nonbiri Nouka",
     "Cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSBHJGUUE2qjduMlc6RdSITQ-taiqgXNazQ&usqp=CAU",
     "Type":"TV",
+    "CurrentEpisode":"12",
     "Episodes":"Ep 12",
     "Status":"Completed",
     "Aired":"Jan 6, 2023 to Mar 24, 2023",
@@ -222,7 +255,7 @@
     "Link":"episodes/isekai-nonbiri-nouka.json",
     "Popular":"No",
     "Recommended":"No",
-    "Updated":"Yes",
+    "Updated":"No",
     "Page":"2"
   },
   {
@@ -230,6 +263,7 @@
     "Alternative":"Tensei shitara Slime Datta Ken Movie: Guren no Kizuna - hen",
     "Cover":"https://m.media-amazon.com/images/M/MV5BZDk1NGNmNWItYWJmZi00N2NhLTgwNDUtNDczZjM0NjczMmUzXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg",
     "Type":"Movie",
+    "CurrentEpisode":"1",
     "Episodes":"Ep 1",
     "Status":"Completed",
     "Aired":"Nov 25, 2022",
@@ -244,7 +278,7 @@
     "Link":"episodes/tensei-shittara-slime.json",
     "Popular":"Yes",
     "Recommended":"No",
-    "Updated":"Yes",
+    "Updated":"No",
     "Page":"2"
   },
   {
@@ -252,6 +286,7 @@
     "Alternative":"Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
     "Cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6RM1MU7vs4DpZhI5BdOVwODbDDuaPPeXjA&usqp=CAU",
     "Type":"TV",
+    "CurrentEpisode":"12",
     "Episodes":"Ep 12",
     "Status":"Completed",
     "Aired":"Jan 7, 2023 to Mar 25, 2023",
@@ -266,7 +301,7 @@
     "Link":"episodes/The Angel Next Door Spoils Me Rotten.json",
     "Popular":"Yes",
     "Recommended":"No",
-    "Updated":"Yes",
+    "Updated":"No",
     "Page":"2"
   }
 ]
