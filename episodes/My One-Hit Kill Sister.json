@@ -4,7 +4,14 @@
     "Episode":"Episode 1",
     "Thumbnail":"https://cloudfront-cdn-images.com/6u1fs6vxc109_xt.jpg",
     "Server1":"https://lvturbo.com/e/6u1fs6vxc109",
-    "Server2":"",
+    "Server2":"anihdplay.com/streaming.php?id=MjAyMzcx&amp;title=Isekai+One+Turn+Kill+Neesan%3A+Ane+Douhan+no+Isekai+Seikatsu+Hajimemashita+Episode+1&amp;typesub=SUB",
+    "Server3":"https://vizcloud.co/e/QVY9MEQX0J2M?t=1681487893&amp;h=99d172da1e3da2707dccbbdf79d2c6ce&amp;autostart=true"
+  },{
+    "Title":"Unknown",
+    "Episode":"Episode 2",
+    "Thumbnail":"None",
+    "Server1":"https://anihdplay.com/streaming.php?id=MjAyNzgz&amp;title=Isekai+One+Turn+Kill+Neesan%3A+Ane+Douhan+no+Isekai+Seikatsu+Hajimemashita+Episode+2&amp;typesub=SUB",
+    "Server2":"https://vizcloud.co/e/QVY9MEQX0J2M?t=1681487893&amp;h=99d172da1e3da2707dccbbdf79d2c6ce&amp;autostart=true",
     "Server3":""
   }
 ]
