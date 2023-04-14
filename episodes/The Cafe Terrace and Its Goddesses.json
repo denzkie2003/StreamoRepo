@@ -4,7 +4,14 @@
     "Episode":"Episode 1",
     "Thumbnail":"https://cloudfront-cdn-images.com/k68udz1grilh_xt.jpg",
     "Server1":"https://lvturbo.com/e/k68udz1grilh",
-    "Server2":"",
-    "Server3":""
+    "Server2":"anihdplay.com/streaming.php?id=MjAyMzgw&amp;title=Megami+no+Caf%C3%A9+Terrace+Episode+1&amp;typesub=SUB",
+    "Server3":"https://vizcloud.co/e/RLJQDQ9E6P59?t=1681512391&amp;h=f79ec12c1bbbe8aa3099ae717ef1bdfe&amp;autostart=true"
+  },{
+    "Title":"Unknown",
+    "Episode":"Episode 2",
+    "Thumbnail":"",
+    "Server1":"https://vizcloud.co/e/E6JR0KZL8P3X?t=1681512377&amp;h=6bd8f19f75bcb6f9f900b05250f0cf42&amp;autostart=true",
+    "Server2":"https://filemoon.sx/e/ngqjghvv2j60?autostart=true",
+    "Server3":"https://kwik.cx/e/vtmmESms2zxn"
   }
 ]
