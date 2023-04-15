@@ -1,0 +1,53 @@
+/* Post Comment */
+#showComments, #disqus_thread{margin-top:30px;text-align:center;}
+#showComments:target, #showComments + #comments{display:none} #showComments:target + #comments{display:block}
+.show-comment a, .comment-add .comment-reply{display:block;padding:18px 20px;border:1px solid #505050;border-radius:5px;font-size:13px;color:#505050;text-align:center}
+.comment-add .comment-reply.hidden{display:none}
+.show-comment a:hover, .comment-add .comment-reply:hover{border-color:#989b9f;color:#989b9f}
+.comments{margin-top:30px}
+.comments .comments-content{margin-bottom:35px}
+.comments .comment-disable{text-align:center}
+.comments ol, .comments ul{list-style:none;margin:0;padding:0}
+.comments li{position:relative;padding:15px 20px;border-radius:8px;background-color:var(--secondary);box-shadow:0 4px 12px 0 rgba(9,32,76,.05)}
+.comments li a{color:inherit}
+.comments li .avatar-image-container{display:flex;align-items:center;position:absolute;width:40px;height:40px;border-radius:50%;overflow:hidden;background:#ebeced url("data:image/svg+xml,") center / 18px no-repeat;transition:all .2s ease-out;-webkit-transition:all .2s ease-out}
+.comments li .avatar-image-container img{margin:auto;width:40px}
+.comments li .comment-header{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;height:40px;margin:0 0 20px 50px;padding:3px 0}
+[dir="rtl"] .comments li .comment-header {margin: 0 50px 20px 0;}
+.comments li .comment-header .datetime{width:100%;font-size:11px;color:#989b9f}
+.comments li .comment-header .datetime a{color:inherit}
+.comments li .comment-header .user{flex:0 0 auto;display:flex;align-items:flex-start;font-size:13px;font-weight:700;font-family:'Nunito Sans', sans-serif;color:var(--light-gray);align-items: center;}
+.comments li .comment-header .user span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:130px}
+.comments li .comment-header .user svg{width:16px;height:16px;fill:#519bd6;margin:0 0 0 5px}
+.comments li .comment-header .user .blog-author{display: block;background-color: red;margin-left: 5px;border-radius: 4px;font-size: 11px;padding-left: 4px;padding-right: 4px;font-weight: 600;color: white;}
+.comments li .comment-actions, .comments li .comment-replies .comment-reply{margin:10px 0 0 auto;font-size:13px}
+.comments li .comment-replies + .comment-actions{display:none}
+.comments li .comment-replies{margin:10px 0 0 auto}
+.comments li .comment-replies .thread-toggle,
+.comments li .comment-replies .comment-reply a, .comments li .comment-actions a{display:inline-flex;align-items:center;font-size:13px;cursor: pointer;}
+.comments li .comment-replies .thread-toggle svg, .comments li .comment-replies .comment-reply svg, .comments li .comment-actions svg{width:14px;height:14px;margin-right:5px;fill:var(--light-gray)}
+.comments li .comment-replies .thread-show:checked + .comment-thread .thread-toggle svg{-webkit-transform:rotate(180deg);transform:rotate(180deg)}
+.comments li .comment-replies .thread-show:checked + .comment-thread .thread-chrome,
+.comments li .comment-replies .thread-show:checked + .comment-thread + .comment-reply{display:none}
+.comments li .comment-replies .thread-chrome{margin-top:20px}
+.comments li .comment-replies .comment-reply{width:calc(100% - 55px);display:flex;align-items:center;}
+.comments li .comment-replybox-single{margin-top:20px}
+.comments li li{display:flex;align-items:flex-start;flex-wrap:wrap;padding:0;background-color:transparent;box-shadow:none}
+.comments li li:not(:last-child){margin-bottom:10px}
+.comments li li .avatar-image-container{width:32px;height:32px}
+.comments li li .comment-block{width:calc(100% - 40px);margin-left:auto;padding:12px 15px 15px;background-color:var(--dark-26);border-radius:15px}
+.comments li li .comment-header{height:initial;margin:0 0 10px;padding:0}
+.comments li li .comment-header .datetime{width:initial}
+.comments iframe {background: #fff;padding: 0 10px;box-sizing:border-box;border-radius: 10px}
+.comments #comment-editor {min-height: 95px;}
+.comment-add {display: flex;justify-content: center;}
+.comment-form {display: none}
+.comment-reply ~ .comment-form {display: block}
+/* Comment Sorting */
+.cmAl:checked ~ div .s::before{content:attr(data-new);}
+.s::before{content:attr(data-text);margin:0 6px;opacity:.7;font-size:90%;}
+.s::after{content:'\296E';line-height:18px;font-size:17px;}
+.cmAl:checked ~ div .s::before{content:attr(data-new);}
+.comments-content > ol{display:flex;flex-direction:column;gap:15px}
+.cmAl:checked + * + div > ol{flex-direction:column-reverse;}
+.s{cursor:pointer;}
