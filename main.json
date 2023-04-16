@@ -22,6 +22,7 @@
     "Popular":"Yes",
     "Recommended":"Yes",
     "Updated":"No",
+    "TeaserPV":"https://www.youtube.com/embed/6vMuWuWlW4I?enablejsapi=1&wmode=opaque&autoplay=1",
     "Comments":"https://disqus.com/embed/comments/?base=default&amp;f=https-anime-streamo-blogspot-com&amp;t_u=https%3A%2F%2Fepubworldfree.blogspot.com%2F2023%2F04%2Fdemon-slayer.html&amp;t_d=Demon%20Slayer&amp;t_t=Demon%20Slayer&amp;s_o=default#version=3e54966d61d1dd2aed1b403e6aa1bc04"
   },
 {
@@ -47,7 +48,8 @@
     "Link":"episodes/Kono Subarashii Sekai ni Bakuen wo.json",
     "Popular":"No",
     "Recommended":"Yes",
-    "Updated":"Yes"
+    "Updated":"Yes",
+    "TeaserPV":"https://www.youtube.com/embed/IN5XdlB0x0U?enablejsapi=1&wmode=opaque&autoplay=1"
   },
 {
     "Title":"Kizuna no Allele",
@@ -74,7 +76,8 @@ Her story begins now—",
     "Link":"episodes/Kizuna no Allele.json",
     "Popular":"No",
     "Recommended":"No",
-    "Updated":"Yes"
+    "Updated":"Yes",
+    "TeaserPV":"https://www.youtube.com/embed/BlS3sdzsjOU?enablejsapi=1&wmode=opaque&autoplay=1"
   },
 {
     "Title":"I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
@@ -99,7 +102,8 @@ Her story begins now—",
     "Link":"episodes/isekai-de-chest-skill.json",
     "Popular":"Yes",
     "Recommended":"Yes",
-    "Updated":"Yes"
+    "Updated":"Yes",
+    "TeaserPV":"https://www.youtube.com/embed/u7YOzGniO5g?enablejsapi=1&wmode=opaque&autoplay=1"
   },
 {
     "Title":"Kimi No Na Wa.",
@@ -124,7 +128,8 @@ Her story begins now—",
     "Link":"episodes/kimi no na wa.json",
     "Popular":"Yes",
     "Recommended":"Yes",
-    "Updated":"No"
+    "Updated":"No",
+    "TeaserPV":"https://www.youtube.com/embed/3KR8_igDs1Y?enablejsapi=1&wmode=opaque&autoplay=1"
   },
 {
     "Title":"Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita",
@@ -149,7 +154,8 @@ Her story begins now—",
     "Link":"episodes/My One-Hit Kill Sister.json",
     "Popular":"No",
     "Recommended":"Yes",
-    "Updated":"Yes"
+    "Updated":"Yes",
+    "TeaserPV":"https://www.youtube.com/embed/EgENBNTVq00?enablejsapi=1&wmode=opaque&autoplay=1"
   },
 	{
     "Title":"Kawaisugi Crisis",
@@ -174,7 +180,8 @@ Her story begins now—",
     "Recommended":"Yes",
     "Updated":"Yes",
     "Quality":"HD",
-    "Subtitle":"SUB"
+    "Subtitle":"SUB",
+    "TeaserPV":"https://www.youtube.com/embed/bUqWIrP-54w?enablejsapi=1&wmode=opaque&autoplay=1"
   },
 	{
     "Title":"Megami no Café Terrace",
@@ -199,7 +206,8 @@ Her story begins now—",
     "Recommended":"Yes",
     "Updated":"Yes",
     "Quality":"HD",
-    "Subtitle":"SUB"
+    "Subtitle":"SUB",
+    "TeaserPV":"https://www.youtube.com/embed/UOpfZzBI-J0?enablejsapi=1&wmode=opaque&autoplay=1"
   },
 	{
     "Title":"Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
